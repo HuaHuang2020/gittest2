@@ -4,6 +4,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello git");
         System.out.println("hello git");
-        int a = 0;
+        int a = 1;
     }
 }
